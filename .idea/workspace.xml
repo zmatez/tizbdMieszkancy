@@ -13,6 +13,9 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
@@ -21,6 +24,7 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectId" id="1kkElOhebiOG6ylqeAKHwLnAICP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -83,6 +87,7 @@
       <workItem from="1606254400263" duration="587000" />
       <workItem from="1606678081527" duration="6846000" />
       <workItem from="1606723048094" duration="29749000" />
+      <workItem from="1606821639471" duration="700000" />
     </task>
     <servers />
   </component>
@@ -114,6 +119,14 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1098" y="422" key="Github.CreateGistDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1606241211997" />
+    <state x="1143" y="422" key="Github.ShareDialog" timestamp="1606821656733">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1143" y="422" key="Github.ShareDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1606821656733" />
+    <state x="1067" y="142" key="Github.UntrackedFilesDialog" timestamp="1606821664132">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1067" y="142" key="Github.UntrackedFilesDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1606821664132" />
     <state width="2517" height="210" key="GridCell.Tab.0.bottom" timestamp="1606774838141">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
@@ -138,6 +151,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="781" y="165" key="SettingsEditor/0.0.2560.1040@0.0.2560.1040" timestamp="1606726627972" />
+    <state x="872" y="249" key="Vcs.Push.Dialog.v2" timestamp="1606821729510">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="872" y="249" key="Vcs.Push.Dialog.v2/0.0.2560.1040@0.0.2560.1040" timestamp="1606821729510" />
     <state x="92" y="92" width="2376" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1606747278881">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>

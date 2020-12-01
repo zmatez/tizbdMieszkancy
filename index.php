@@ -45,6 +45,9 @@
     <div id="mf4" class="menuEntry" onclick="entryClick(this)">
         <p class="menuParagraph"><strong>Wszystkie osoby_mieszkania</strong></p>
     </div>
+    <div id="mf5" class="menuEntry" onclick="entryClick(this)">
+        <p class="menuParagraph"><strong>Mieszkania osób</strong></p>
+    </div>
 
     <script>
         const queries = [
@@ -53,7 +56,8 @@
                 ?>",
             "select * from osoby;",
             "select * from mieszkania;",
-            "select * from osoby_mieszkania;"
+            "select * from osoby_mieszkania;",
+            "select osoby.*,mieszkania.* from osoby_mieszkania join osoby on osoby_mieszkania.id_osoby = osoby.id join mieszkania on osoby_mieszkania.id_mieszkania = mieszkania.id;"
         ];
 
         function entryClick(button) {
